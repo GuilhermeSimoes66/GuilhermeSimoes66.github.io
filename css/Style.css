@@ -1,0 +1,127 @@
+body {
+    background: url('../img/images/Layout_03.png') repeat;
+    font-family: Arial;
+    margin: 0px;
+}
+
+div#header{
+    width: 1000px;
+    height: 10px;
+    margin: 20px auto;
+    display:block;
+}
+
+div#header h1{
+    margin-top:0px;
+    margin-left:60px;
+    float: left;
+}
+
+ul#nav{
+    list-style: none;
+    padding-left: 200px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 90px;
+    
+}
+ul#nav li{
+    float: left;
+    margin-right: 50px;
+}
+
+ul#nav a{
+    text-decoration:none;
+    color: black;
+    padding-top: 8px;
+   
+}
+
+ul#nav a:hover{
+    border-top: 5px solid #FFD700;
+    
+}
+
+ul#nav a.ativa{
+    border-top: 5px solid #FFB90F; 
+}
+
+
+div#Banner{
+    
+    width: 1100px;
+    height: 390px;
+    margin: 120px auto;
+    background: url("../img/Banner.png") no-repeat;
+    position: relative;
+}
+
+div#Banner a{
+    position: absolute;
+    top: 300px;
+    left: 600px;
+    
+    
+}
+
+
+div#banner a img{
+    border: none;
+        
+}
+
+div#section{
+    width: 1000px;
+    height: 200px;
+    margin: -110px auto 20px auto;
+    
+    
+}
+
+div.article{
+    width: 330px;
+    float: left; 
+    margin: 0px; 10px;
+    
+}
+
+
+div.article h1{
+    font-size: 20px;
+    font-weight: normal;
+    text-transform: uppercase;
+    
+}
+
+div.article p{
+    font-size: 15px;
+    color: black;
+    
+    
+}
+
+
+div.article a{
+    background-color: black;
+    color:white;
+    font-size: 12px;
+    text-decoration: none;
+    padding: 5px 15px;
+    
+}
+
+
+div#footer{
+    background: #3f4c6b;
+    width: 1340px;
+    height: 40px;
+    margin: 0 auto;
+    padding: 5px;
+    
+}
+
+div#footer p{
+    text-align: right;
+    color: white;
+    
+}
