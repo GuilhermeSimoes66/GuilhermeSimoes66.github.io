@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-image: url(../img/images/TexturaFundo.png);
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+}
+
+
+h1{
+    text-align: center;
+    padding: 0px;
+    color: white;
+}
+
+h2{
+    text-align: center;
+    padding: 10px;
+}
+
+.register{
+    background: #2d85b0;
+    width: 457px;
+    margin: 0px 0px 0px 430px;
+    color: white;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 10px;
+}
+#register{
+    
+    margin-left: 70px;
+    
+}
+
+label{
+    color: white;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: italic;
+}
+
+#name{
+    width: 300px;
+    border: none;
+    border-radius: 3px;
+    outline: 0;
+    padding: 7px;
+    
+}
+
+#ph{
+    
+    width: 65px;
+    padding: 7px;
+    border:none;
+    border-radius: 3px;
+    outline: 0px;
+}
+
+#num{
+    width: 230px;
+    padding: 7px;
+    border: none;
+    border-radius: 3px;
+    outline: 0;
+    
+}
+
+#sub{
+    width: 200px;
+    padding: 7px;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: 600;
+    border: none;
+    border-radius: 3px;
+    outline: 0;
+    
+}
+
+
+#Curso{
+    
+    width: 110px;
+    padding: 10px;
+    border:none;
+    border-radius: 3px;
+    outline: 0px;
+}
+
+
+div#header{
+    width: 500px;
+    height: 10px;
+    margin: 40px auto;
+    display:block;
+}
+
+div#header h1{
+    
+    margin-top:-30px;
+    margin-left:70px;
+    float: right;
+}
+
+ul#nav a:hover{
+    border-top: 5px solid #FFD700;
+    
+    
+}
+
+ul#nav a.ativa{
+    border-top: 5px solid #FFB90F; 
+    font-family: sans-serif;
+}
+ul#nav li{
+    font-family: sans-serif;
+    float: left;
+    margin-right: 50px;
+}
+
+ul#nav a{
+    
+    text-decoration:none;
+    color: white;
+    padding-top: 8px;
+   
+}
