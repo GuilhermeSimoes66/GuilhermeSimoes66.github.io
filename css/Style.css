@@ -174,7 +174,7 @@ section#page-text p {
 
 
 .register{
-    background: #3f4c6b;
+    background-color: darkgray;
     width: 500px;
     margin: 0px 0px 0px 600px;
     color: white;
@@ -208,3 +208,5 @@ section#page-text p {
     outline: 0;
     
 }
+
+
