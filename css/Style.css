@@ -81,7 +81,7 @@ div#section{
 div.article{
     width: 330px;
     float: left; 
-    margin: 0px; 10px;
+    margin: 0px; 10px; 
     
 }
 
@@ -112,11 +112,11 @@ div.article a{
 
 
 div#footer{
-    background: #3f4c6b;
-    width: 1340px;
-    height: 40px;
-    margin: 0 auto;
-    padding: 5px;
+   background: #3f4c6b;
+    width: 1285px;
+    height: 20px;
+    margin: 180px 0px 0px -192px;
+    padding: 38px;
     
 }
 
